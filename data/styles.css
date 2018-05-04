@@ -94,7 +94,18 @@
 }
 ._图片 {
 }
+._二级标题1 {
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
 ._形状 {
+}
+._水平线 {
+}
+._垂直线 {
 }
 ._文本框 {
   color:#000000;
