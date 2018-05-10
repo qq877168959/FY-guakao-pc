@@ -15,6 +15,15 @@
 }
 .box_3 {
 }
+._形状 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
 .image {
 }
 .button {
@@ -83,6 +92,10 @@
   color:#000000;
   text-align:left;
 }
+.droplist {
+  color:#000000;
+  text-align:left;
+}
 .checkbox {
   text-align:left;
 }
@@ -101,7 +114,10 @@
   font-size:24px;
   text-align:left;
 }
-._形状 {
+._形状1 {
+}
+._文本段落1 {
+  text-align:left;
 }
 ._水平线 {
 }
@@ -154,6 +170,8 @@
 }
 .table_cell {
 }
+.menu_item {
+}
 ._连接线 {
   font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
@@ -187,4 +205,11 @@
 }
 ._图片1 {
   color:#000000;
+}
+._一级标题1 {
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
 }

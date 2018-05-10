@@ -530,13 +530,13 @@
   font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
+  text-align:left;
 }
 #u270 {
   position:absolute;
   left:2px;
-  top:7px;
+  top:6px;
   width:916px;
-  visibility:hidden;
   word-wrap:break-word;
 }
 #u271_img {
